@@ -1,0 +1,1194 @@
+﻿Log file open, 06/05/22 18:55:07
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: repozytorium2
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.266384
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-17735300
+LogInit: Engine Version: 4.27.1-17735300+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Oct  6 2021 14:42:51
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -EpicPortal -epicusername=Nikol3288 -epicuserid=09f34cb7dcb0426e9c0621bf1dfb121c -epiclocale=pl -epicsandboxid=ue
+LogInit: Base Directory: D:/5. PROGRAMY - instalacje/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.06.05-16.55.08:492][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.06.05-16.55.08:492][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.06.05-16.55.08:492][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Saved/Config/Windows/Engine.ini]
+[2022.06.05-16.55.08:492][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.06.05-16.55.08:492][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Saved/Config/Windows/Engine.ini]
+[2022.06.05-16.55.08:492][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Saved/Config/Windows/Engine.ini]
+[2022.06.05-16.55.08:492][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.06.05-16.55.08:492][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.06.05-16.55.08:492][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.06.05-16.55.08:492][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.06.05-16.55.08:492][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.06.05-16.55.08:492][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.06.05-16.55.08:492][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.06.05-16.55.08:492][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.06.05-16.55.08:492][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.06.05-16.55.08:492][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.06.05-16.55.08:492][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.06.05-16.55.08:492][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.06.05-16.55.08:492][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.06.05-16.55.08:492][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.06.05-16.55.08:492][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Saved/Config/Windows/Engine.ini]
+[2022.06.05-16.55.08:492][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.06.05-16.55.08:492][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.06.05-16.55.08:492][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.06.05-16.55.08:492][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.06.05-16.55.08:492][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.06.05-16.55.08:492][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.06.05-16.55.08:492][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.06.05-16.55.08:492][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.06.05-16.55.08:492][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.06.05-16.55.08:492][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.06.05-16.55.08:492][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.06.05-16.55.08:492][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.06.05-16.55.08:492][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.06.05-16.55.08:492][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.06.05-16.55.08:492][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Saved/Config/Windows/Engine.ini]
+[2022.06.05-16.55.08:492][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Saved/Config/Windows/Engine.ini]
+[2022.06.05-16.55.08:498][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Saved/Config/Windows/Scalability.ini]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Saved/Config/Windows/Scalability.ini]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Saved/Config/Windows/Scalability.ini]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Saved/Config/Windows/Scalability.ini]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Saved/Config/Windows/Scalability.ini]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Saved/Config/Windows/Scalability.ini]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.06.05-16.55.08:498][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Saved/Config/Windows/Scalability.ini]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Saved/Config/Windows/Scalability.ini]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.06.05-16.55.08:499][  0]LogInit: Selected Device Profile: [Windows]
+[2022.06.05-16.55.08:499][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.06.05-16.55.08:499][  0]LogHAL: Display: Platform has ~ 32 GB [34195701760 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.06.05-16.55.08:499][  0]LogInit: Going up to parent DeviceProfile []
+[2022.06.05-16.55.08:499][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Saved/Config/Windows/Scalability.ini]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Saved/Config/Windows/Scalability.ini]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Saved/Config/Windows/Scalability.ini]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Saved/Config/Windows/Scalability.ini]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.06.05-16.55.08:499][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Saved/Config/Windows/Scalability.ini]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Saved/Config/Windows/Scalability.ini]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Saved/Config/Windows/Scalability.ini]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Saved/Config/Windows/Scalability.ini]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.06.05-16.55.08:500][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.06.05-16.55.08:501][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Saved/Config/Windows/Engine.ini]
+[2022.06.05-16.55.08:501][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Saved/Config/Windows/Editor.ini]
+[2022.06.05-16.55.08:501][  0]LogInit: Computer: DESKTOP-C01GU12
+[2022.06.05-16.55.08:501][  0]LogInit: User: nikol
+[2022.06.05-16.55.08:501][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.06.05-16.55.08:501][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.06.05-16.55.08:501][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2022.06.05-16.55.08:501][  0]LogMemory: Platform Memory Stats for Windows
+[2022.06.05-16.55.08:501][  0]LogMemory: Process Physical Memory: 148.17 MB used, 148.17 MB peak
+[2022.06.05-16.55.08:501][  0]LogMemory: Process Virtual Memory: 129.72 MB used, 129.72 MB peak
+[2022.06.05-16.55.08:501][  0]LogMemory: Physical Memory: 6691.70 MB used,  25919.86 MB free, 32611.56 MB total
+[2022.06.05-16.55.08:501][  0]LogMemory: Virtual Memory: 134188576.00 MB used,  29154.64 MB free, 134217728.00 MB total
+[2022.06.05-16.55.08:506][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.06.05-16.55.08:557][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.06.05-16.55.08:558][  0]LogInit: Using OS detected language (pl-PL).
+[2022.06.05-16.55.08:558][  0]LogInit: Using OS detected locale (pl-PL).
+[2022.06.05-16.55.08:563][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so the 'pl' localization will be used.
+[2022.06.05-16.55.08:563][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/pl/Editor.locres' could not be opened for reading!
+[2022.06.05-16.55.08:563][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/pl/EditorTutorials.locres' could not be opened for reading!
+[2022.06.05-16.55.08:563][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/pl/Keywords.locres' could not be opened for reading!
+[2022.06.05-16.55.08:563][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/pl/Category.locres' could not be opened for reading!
+[2022.06.05-16.55.08:563][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/pl/ToolTips.locres' could not be opened for reading!
+[2022.06.05-16.55.08:563][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/pl/PropertyNames.locres' could not be opened for reading!
+[2022.06.05-16.55.08:564][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/pl/Engine.locres' could not be opened for reading!
+[2022.06.05-16.55.08:564][  0]LogInit: Setting process to per monitor DPI aware
+[2022.06.05-16.55.08:577][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.06.05-16.55.08:590][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.06.05-16.55.08:590][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.06.05-16.55.08:712][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.06.05-16.55.08:762][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.06.05-16.55.08:762][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.06.05-16.55.08:762][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.06.05-16.55.08:762][  0]LogD3D11RHI: D3D11 adapters:
+[2022.06.05-16.55.08:875][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti with Max-Q Design' (Feature Level 11_0)
+[2022.06.05-16.55.08:875][  0]LogD3D11RHI:       4021/0/16305 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.06.05-16.55.08:897][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2022.06.05-16.55.08:897][  0]LogD3D11RHI:       128/0/16305 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.06.05-16.55.08:899][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.06.05-16.55.08:899][  0]LogD3D11RHI:       0/0/16305 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.06.05-16.55.08:899][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.06.05-16.55.08:899][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1050 Ti with Max-Q Design
+[2022.06.05-16.55.08:899][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.06.05-16.55.08:899][  0]LogD3D11RHI:     DeviceId    : 1c8f
+[2022.06.05-16.55.08:899][  0]LogD3D11RHI:     SubSysId    : 123c1462
+[2022.06.05-16.55.08:899][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.06.05-16.55.08:899][  0]LogD3D11RHI:     DedicatedVideoMemory : 4216324096 bytes
+[2022.06.05-16.55.08:899][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.06.05-16.55.08:899][  0]LogD3D11RHI:     SharedSystemMemory : 17097850880 bytes
+[2022.06.05-16.55.08:899][  0]LogD3D11RHI:     AdapterLuid : 0 47065
+[2022.06.05-16.55.08:904][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.06.05-16.55.08:904][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8f (for the marketing name, search the web for "GPU Device Id")
+[2022.06.05-16.55.08:904][  0]LogWindows: EnumDisplayDevices:
+[2022.06.05-16.55.08:904][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2022.06.05-16.55.08:904][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.06.05-16.55.08:904][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.06.05-16.55.08:905][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2022.06.05-16.55.08:905][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti with Max-Q Design
+[2022.06.05-16.55.08:905][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2022.06.05-16.55.08:905][  0]LogD3D11RHI:      Driver Date: Unknown
+[2022.06.05-16.55.08:905][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2022.06.05-16.55.08:905][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.06.05-16.55.08:905][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1050 Ti with Max-Q Design
+[2022.06.05-16.55.08:905][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.06.05-16.55.08:905][  0]LogD3D11RHI:     DeviceId    : 1c8f
+[2022.06.05-16.55.08:905][  0]LogD3D11RHI:     SubSysId    : 123c1462
+[2022.06.05-16.55.08:905][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.06.05-16.55.08:905][  0]LogD3D11RHI:     DedicatedVideoMemory : 4216324096 bytes
+[2022.06.05-16.55.08:905][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.06.05-16.55.08:905][  0]LogD3D11RHI:     SharedSystemMemory : 17097850880 bytes
+[2022.06.05-16.55.08:905][  0]LogD3D11RHI:     AdapterLuid : 0 47065
+[2022.06.05-16.55.08:973][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.06.05-16.55.08:973][  0]LogD3D11RHI: Async texture creation enabled
+[2022.06.05-16.55.08:973][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.06.05-16.55.08:991][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.06.05-16.55.09:038][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.06.05-16.55.09:420][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.06.05-16.55.09:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.06.05-16.55.09:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.06.05-16.55.09:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.06.05-16.55.09:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.06.05-16.55.09:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.06.05-16.55.09:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.06.05-16.55.09:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.06.05-16.55.09:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.06.05-16.55.09:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.06.05-16.55.09:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.06.05-16.55.09:458][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.06.05-16.55.09:458][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.06.05-16.55.09:467][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.06.05-16.55.09:471][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.06.05-16.55.09:475][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.06.05-16.55.09:478][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.06.05-16.55.09:489][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.06.05-16.55.09:493][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.06.05-16.55.09:497][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.06.05-16.55.09:519][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.06.05-16.55.09:519][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.06.05-16.55.09:527][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.06.05-16.55.09:531][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.06.05-16.55.09:534][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.06.05-16.55.09:538][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.06.05-16.55.09:547][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.06.05-16.55.09:547][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.06.05-16.55.09:555][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.06.05-16.55.09:559][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.06.05-16.55.09:563][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.06.05-16.55.09:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.06.05-16.55.09:568][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.06.05-16.55.09:575][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.06.05-16.55.09:605][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.06.05-16.55.09:633][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.06.05-16.55.09:634][  0]LogShaderCompilers: Guid format shader working directory is -26 characters bigger than the processId version (../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Intermediate/Shaders/WorkingDirectory/16984/).
+[2022.06.05-16.55.09:634][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/nikol/AppData/Local/Temp/UnrealShaderWorkingDir/AB08312743DA6E0D0CA0E3871B0AF528/'.
+[2022.06.05-16.55.09:634][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.06.05-16.55.09:634][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.06.05-16.55.09:634][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.06.05-16.55.10:355][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.06.05-16.55.10:411][  0]LogDerivedDataCache: Loaded boot cache 0.06s 94MB C:/Users/nikol/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.06.05-16.55.10:411][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/nikol/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.06.05-16.55.10:411][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.06.05-16.55.10:411][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.06.05-16.55.10:412][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.05-16.55.10:412][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.06.05-16.55.10:427][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.06.05-16.55.10:427][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.05-16.55.10:427][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.06.05-16.55.10:437][  0]LogDerivedDataCache: Speed tests for C:/Users/nikol/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.06.05-16.55.10:437][  0]LogDerivedDataCache: Display: Performance to C:/Users/nikol/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1013.84MBs, RandomWriteSpeed=104.22MBs. Assigned SpeedClass 'Local'
+[2022.06.05-16.55.10:438][  0]LogDerivedDataCache: Using Local data cache path C:/Users/nikol/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.06.05-16.55.10:439][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.06.05-16.55.10:439][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.06.05-16.55.10:489][  0]LogSlate: Using FreeType 2.10.0
+[2022.06.05-16.55.10:489][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.06.05-16.55.10:514][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
+[2022.06.05-16.55.10:722][  0]LogInit: Selected Device Profile: [Windows]
+[2022.06.05-16.55.10:722][  0]LogInit: Active device profile: [0000019EFB443100][0000019EF752FC00 49] Windows
+[2022.06.05-16.55.10:722][  0]LogInit: Profiles: [0000019EFB443100][0000019EF752FC00 49] Windows, [0000019EFB3F5100][0000019EF7536200 49] WindowsNoEditor, [0000019EFB441100][0000019EF753A380 49] WindowsServer, [0000019EFB3F6700][0000019EF753E500 49] WindowsClient, [0000019EFB442600][0000019EF7542680 49] IOS, [0000019EFB3F7700][0000019EF75327C0 49] iPadAir, [0000019EFB443B00][0000019EF7546900 49] iPadAir2, [0000019EFB3AB400][0000019EF754EB40 49] IPadPro, [0000019EFB3AB500][0000019EF754AB80 49] iPadAir3, [0000019EFB440700][0000019EF7556D00 49] iPadAir4, [0000019EFB3A9600][0000019EF755AE80 49] iPadMini2, [0000019EFB443E00][0000019EF755F000 49] iPadMini3, [0000019EFB3A8E00][0000019EF7563180 49] iPadMini4, [0000019EFB441F00][0000019EF7567300 49] iPadMini5, [0000019EFB3F2700][0000019EF4C815C0 49] iPhone6, [0000019EFB3F2800][0000019EF756B600 49] iPodTouch6, [0000019EFB3A8900][0000019EF4C898C0 49] iPhone7, [0000019EFB3A8800][0000019EF4C85900 49] iPodTouch7, [0000019EFB3F1500][0000019EF4C8DA80 49] iPhone5S, [0000019EFB3A8A00][0000019EF4C91C00 49] iPhone6Plus, [0000019EFB3F0E00][0000019EF4C94200 49] iPhone6S, [0000019EFB3AB700][0000019EF4C98380 49] iPhone6SPlus, [0000019EFB3F3B00][0000019EF4C9C500 49] iPhone7Plus, [0000019EFB3AAA00][0000019EF4CA0680 49] iPhoneSE, [0000019EFB3F0100][0000019EF4CA4800 49] iPhone8, [0000019EFB3AA300][0000019EF7552940 49] iPhone8Plus, [0000019EFB3F1800][0000019EF4CA8A80 49] iPhoneX, [0000019EFB3ABA00][0000019EF4CACBC0 49] iPhoneXS, [0000019EFB3F0C00][0000019EF4CB0D00 49] iPhoneXSMax, [0000019EFB3A9800][0000019EF4CB8E80 49] iPhoneXR, [0000019EFB3F2000][0000019EF4CBD000 49] iPhone11, [0000019EFB3AB900][0000019EF4CC1180 49] iPhone11Pro, [0000019EFB3F1F00][0000019EF4CC5300 49] iPhone11ProMax, [0000019EFB3A9C00][0000019EF4CC9480 49] iPhoneSE2, [0000019EFB3F1600][0000019EF4CCD600 49] iPhone12Mini, [0000019EFB3A9D00][0000019EF4CD1780 49] iPhone12, [0000019EFB3F1400][0000019EF4CD5900 49] iPhone12Pro, [0000019EFB3AAF00][0000019EF4CD9A80 49] iPhone12ProMax, [0000019EFB3F2100][0000019EF4CDDC00 49] iPadPro105, [0000019EFB3AB100][0000019EF4CE0200 49] iPadPro129, [0000019EFB3F0B00][0000019EF4CE4380 49] iPadPro97, [0000019EFB3A9500][0000019EF4CE8500 49] iPadPro2_129, [0000019EFB3F2A00][0000019EF4CEC680 49] iPad5, [0000019EFB3AAD00][0000019EF4CF0800 49] iPad6, [0000019EFB3F2C00][0000019EFBD0E980 49] iPad7, [0000019EFB3A8F00][0000019EFBD12B00 49] iPad8, [0000019EFB3F0900][0000019EF4CB4C40 49] iPadPro11, [0000019EFB3A9100][0000019EFBD16D80 49] iPadPro2_11, [0000019EFB3F3900][0000019EFBD1AEC0 49] iPadPro3_129, [0000019EFB3ABE00][0000019EFBD23040 49] iPadPro4_129, [0000019EFB3F2F00][0000019EFBD271C0 49] AppleTV, [0000019EFB3AB800][0000019EFBD2B340 49] AppleTV4K, [0000019EFB3F0400][0000019EFBD2F4C0 49] TVOS, [0000019EFB3AA100][0000019EFBD33640 49] Mac, [0000019EFB3F4100][0000019EFBD377C0 49] MacClient, [0000019EFB476400][0000019EFBD3B940 49] MacNoEditor, [0000019EFB3F4F00][0000019EFBD3FAC0 49] MacServer, [0000019EFB475900][0000019EFBD420C0 49] Linux, [0000019EFB3F4A00][0000019EFBD46240 49] LinuxAArch64, [0000019EFB475100][0000019EFBD4A3C0 49] LinuxNoEditor, [0000019EFB3F4200][0000019EFBD4E540 49] LinuxAArch64NoEditor, [0000019EFB474400][0000019EFBD526C0 49] LinuxClient, [0000019EFB3F5D00][0000019EFBD56840 49] LinuxAArch64Client, [0000019EFB474200][0000019EFBD5A9C0 49] LinuxServer, [0000019EFB3F5F00][0000019EFBD5EB40 49] LinuxAArch64Server, [0000019EFB475D00][0000019EFBD62CC0 49] Android, [0000019EFB3F5200][0000019EFBD1EE00 49] Android_Low, [0000019EFB475F00][0000019EFBD66F40 49] Android_Mid, [0000019EFB3F4800][0000019EFBD6B080 49] Android_High, [0000019EFB475000][0000019EFBD6F1C0 49] Android_Default, [0000019EFB3F6E00][0000019EFBD77340 49] Android_Adreno4xx, [0000019EFB474D00][0000019EFBD7B4C0 49] Android_Adreno5xx_Low, [0000019EFB3F5800][0000019EFBD7F640 49] Android_Adreno5xx, [0000019EFB474A00][0000019EFBD837C0 49] Android_Adreno6xx, [0000019EFB3AAE00][0000019EFBD87940 49] Android_Adreno6xx_Vulkan, [0000019EFB3F3100][0000019EFBD8BAC0 49] Android_Mali_T6xx, [0000019EFB3A8B00][0000019EFBD8E0C0 49] Android_Mali_T7xx, [0000019EFB3F1E00][0000019EFBD92240 49] Android_Mali_T8xx, [0000019EFB3AA700][0000019EFBD963C0 49] Android_Mali_G71, [0000019EFB3F0F00][0000019EFBD9A540 49] Android_Mali_G72, [0000019EFB3AB300][0000019EFBD9E6C0 49] Android_Mali_G72_Vulkan, [0000019EFB3F0500][0000019EFBDA2840 49] Android_Mali_G76, [0000019EFB3AA400][0000019EFBDA69C0 49] Android_Mali_G76_Vulkan, [0000019EFB475500][0000019EFBDAAB40 49] Android_Mali_G77, [0000019EFB3A8700][0000019EFBDAECC0 49] Android_Mali_G77_Vulkan, [0000019EFB476300][0000019EFBDB2E40 49] Android_Mali_G78, [0000019EFB3A9200][0000019EFBD72F80 49] Android_Mali_G78_Vulkan, [0000019EFB474300][0000019EFBDB70C0 49] Android_Mali_G710, [0000019EFB3ABD00][0000019EFBDBB200 49] Android_Mali_G710_Vulkan, [0000019EFB475600][0000019EFBDBF340 49] Android_Vulkan_SM5, [0000019EFB3AB600][0000019EFBDC74C0 49] Android_PowerVR_G6xxx, [0000019EFB475B00][0000019EFBDCB640 49] Android_PowerVR_GT7xxx, [0000019EFB3AAB00][0000019EFBDCF7C0 49] Android_PowerVR_GE8xxx, [0000019EFB475800][0000019EFBDD3940 49] Android_PowerVR_GM9xxx, [0000019EFB3A8C00][0000019EFBDD7AC0 49] Android_PowerVR_GM9xxx_Vulkan, [0000019EFB475A00][0000019EFBDDA0C0 49] Android_TegraK1, [0000019EFB3A9000][0000019EFBDDE240 49] Android_Unknown_Vulkan, [0000019EFB3F1A00][0000019EFBDE23C0 49] Lumin, [0000019EFB3A8500][0000019EFBDE6540 49] Lumin_Desktop, [0000019EFB3F3C00][0000019EFBDEA6C0 49] HoloLens, 
+[2022.06.05-16.55.10:936][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.06.05-16.55.10:936][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.06.05-16.55.10:936][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.06.05-16.55.10:936][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.06.05-16.55.10:936][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.06.05-16.55.10:950][  0]LogNetVersion: repozytorium2 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3197100704)
+[2022.06.05-16.55.11:385][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.06.05-16.55.11:436][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.06.05-16.55.11:441][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.06.05-16.55.11:441][  0]LogUObjectAllocator: 4301856 out of 0 bytes used by permanent object pool.
+[2022.06.05-16.55.11:441][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.06.05-16.55.11:966][  0]LogPython: Using Python 3.7.7
+[2022.06.05-16.55.12:485][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.06.05-16.55.12:607][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.06.05-16.55.12:851][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: B9770F334FA4F4C5BF4F399A65078494 | Instance: BBAD499D477552D337FE6CAA3A0DCD44 (DESKTOP-C01GU12-16984).
+[2022.06.05-16.55.13:195][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.06.05-16.55.13:195][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.06.05-16.55.13:195][  0]SourceControl: Source control is disabled
+[2022.06.05-16.55.13:195][  0]SourceControl: Source control is disabled
+[2022.06.05-16.55.13:357][  0]SourceControl: Source control is disabled
+[2022.06.05-16.55.13:362][  0]SourceControl: Source control is disabled
+[2022.06.05-16.55.13:421][  0]SourceControl: Source control is disabled
+[2022.06.05-16.55.13:458][  0]LogOpenImageDenoise: OIDN starting up
+[2022.06.05-16.55.13:460][  0]LogUProjectInfo: Found projects:
+[2022.06.05-16.55.13:467][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.06.05-16.55.13:467][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.06.05-16.55.13:468][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.06.05-16.55.13:518][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.06.05-16.55.13:538][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.05-16.55.13:538][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.05-16.55.14:220][  0]LogCollectionManager: Loaded 0 collections in 0.222766 seconds
+[2022.06.05-16.55.14:256][  0]LogFileCache: Scanning file cache for directory 'D:/1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Saved/Collections/' took 0.00s
+[2022.06.05-16.55.14:256][  0]LogFileCache: Scanning file cache for directory 'D:/1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/Developers/nikol/Collections/' took 0.00s
+[2022.06.05-16.55.14:256][  0]LogFileCache: Scanning file cache for directory 'D:/1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/Collections/' took 0.00s
+[2022.06.05-16.55.14:256][  0]LogOcInput: OculusInput pre-init called
+[2022.06.05-16.55.15:765][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.06.05-16.55.15:765][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.06.05-16.55.15:765][  0]LogEngine: Initializing Engine...
+[2022.06.05-16.55.16:354][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.06.05-16.55.16:354][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.06.05-16.55.16:431][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.06.05-16.55.16:432][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.06.05-16.55.16:629][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.06.05-16.55.16:636][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.06.05-16.55.16:638][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.06.05-16.55.16:640][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.06.05-16.55.16:641][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.06.05-16.55.16:641][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.06.05-16.55.16:641][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.06.05-16.55.16:641][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.05-16.55.16:641][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.05-16.55.16:641][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.05-16.55.16:641][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.05-16.55.16:641][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.05-16.55.16:641][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.05-16.55.16:641][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.05-16.55.16:641][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.05-16.55.16:642][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.05-16.55.16:642][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.05-16.55.16:642][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.05-16.55.16:642][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.05-16.55.16:658][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.05-16.55.16:658][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.06.05-16.55.16:676][  0]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2022.06.05-16.55.16:678][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.05-16.55.16:679][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.05-16.55.16:679][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.05-16.55.16:681][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.05-16.55.16:681][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.05-16.55.16:681][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.05-16.55.16:682][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.05-16.55.16:682][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.05-16.55.16:682][  0]LogInit: FAudioDevice initialized.
+[2022.06.05-16.55.16:683][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.06.05-16.55.16:683][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.06.05-16.55.16:740][  0]LogDerivedDataCache: Saved boot cache 0.06s 94MB C:/Users/nikol/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.06.05-16.55.16:740][  0]LogInit: Texture streaming: Enabled
+[2022.06.05-16.55.16:752][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.1-17735300+++UE4+Release-4.27
+[2022.06.05-16.55.16:755][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.06.05-16.55.16:756][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.06.05-16.55.16:757][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.06.05-16.55.16:772][  0]LogInit: Transaction tracking system initialized
+[2022.06.05-16.55.16:792][  0]BlueprintLog: New page: Editor Load
+[2022.06.05-16.55.16:969][  0]LocalizationService: Localization service is disabled
+[2022.06.05-16.55.16:990][  0]TimingProfiler: Initialize
+[2022.06.05-16.55.16:990][  0]TimingProfiler: OnSessionChanged
+[2022.06.05-16.55.16:990][  0]LoadingProfiler: Initialize
+[2022.06.05-16.55.16:990][  0]LoadingProfiler: OnSessionChanged
+[2022.06.05-16.55.16:990][  0]NetworkingProfiler: Initialize
+[2022.06.05-16.55.16:990][  0]NetworkingProfiler: OnSessionChanged
+[2022.06.05-16.55.16:990][  0]MemoryProfiler: Initialize
+[2022.06.05-16.55.16:990][  0]MemoryProfiler: OnSessionChanged
+[2022.06.05-16.55.17:060][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.06.05-16.55.17:061][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.06.05-16.55.17:062][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.06.05-16.55.17:310][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.06.05-16.55.17:310][  0]LogFileCache: Scanning file cache for directory 'D:/1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/' took 0.00s
+[2022.06.05-16.55.17:310][  0]LogCook: Display: Mobile HDR setting 1
+[2022.06.05-16.55.17:730][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.06.05-16.55.17:730][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.06.05-16.55.17:736][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.06.05-16.55.17:739][  0]SourceControl: Source control is disabled
+[2022.06.05-16.55.17:740][  0]LogUnrealEdMisc: Loading editor; pre map load, took 10.446
+[2022.06.05-16.55.18:691][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.06.05-16.55.18:692][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.05-16.55.18:692][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-16.55.18:692][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.05-16.55.20:517][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2022.06.05-16.55.20:928][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2022.06.05-16.55.20:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2022.06.05-16.55.21:068][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2022.06.05-16.55.21:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2022.06.05-16.55.21:114][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2022.06.05-16.55.21:127][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2022.06.05-16.55.21:192][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2022.06.05-16.55.21:300][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2022.06.05-16.55.21:463][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2022.06.05-16.55.21:494][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2022.06.05-16.55.21:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2022.06.05-16.55.21:560][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Audio/Collapse01.uasset"
+[2022.06.05-16.55.21:576][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Audio/Collapse02.uasset"
+[2022.06.05-16.55.21:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2022.06.05-16.55.21:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Audio/Explosion01.uasset"
+[2022.06.05-16.55.21:875][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Audio/Explosion02.uasset"
+[2022.06.05-16.55.21:903][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2022.06.05-16.55.21:951][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Audio/Fire01.uasset"
+[2022.06.05-16.55.21:969][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2022.06.05-16.55.22:080][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2022.06.05-16.55.22:123][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2022.06.05-16.55.22:132][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Audio/Light01.uasset"
+[2022.06.05-16.55.22:143][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2022.06.05-16.55.22:279][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Audio/Light02.uasset"
+[2022.06.05-16.55.22:396][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2022.06.05-16.55.22:419][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Audio/Smoke01.uasset"
+[2022.06.05-16.55.22:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2022.06.05-16.55.23:046][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2022.06.05-16.55.23:196][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2022.06.05-16.55.23:389][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2022.06.05-16.55.23:404][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2022.06.05-16.55.23:589][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2022.06.05-16.55.23:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2022.06.05-16.55.23:861][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Audio/Steam01.uasset"
+[2022.06.05-16.55.23:880][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2022.06.05-16.55.24:447][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2022.06.05-16.55.24:597][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2022.06.05-16.55.24:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2022.06.05-16.55.24:926][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2022.06.05-16.55.25:113][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2022.06.05-16.55.25:158][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2022.06.05-16.55.25:249][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2022.06.05-16.55.25:420][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2022.06.05-16.55.25:619][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2022.06.05-16.55.25:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2022.06.05-16.55.25:932][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2022.06.05-16.55.25:976][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2022.06.05-16.55.26:039][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2022.06.05-16.55.26:143][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2022.06.05-16.55.26:448][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2022.06.05-16.55.26:463][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2022.06.05-16.55.35:848][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2022.06.05-16.55.36:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2022.06.05-16.55.36:823][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2022.06.05-16.55.36:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Maps/Minimal_Default.umap"
+[2022.06.05-16.55.37:278][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2022.06.05-16.55.37:673][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Maps/StarterMap.umap"
+[2022.06.05-16.55.38:692][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2022.06.05-16.55.38:971][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2022.06.05-16.55.39:002][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2022.06.05-16.55.39:069][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2022.06.05-16.55.39:085][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2022.06.05-16.55.39:540][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2022.06.05-16.55.39:614][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2022.06.05-16.55.39:645][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2022.06.05-16.55.39:665][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2022.06.05-16.55.39:826][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2022.06.05-16.55.40:072][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2022.06.05-16.55.40:233][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2022.06.05-16.55.40:358][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2022.06.05-16.55.40:528][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2022.06.05-16.55.40:546][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2022.06.05-16.55.40:566][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2022.06.05-16.55.40:611][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2022.06.05-16.55.40:640][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2022.06.05-16.55.40:659][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Materials/M_Glass.uasset"
+[2022.06.05-16.55.40:697][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2022.06.05-16.55.40:857][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2022.06.05-16.55.40:938][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2022.06.05-16.55.41:043][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2022.06.05-16.55.41:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2022.06.05-16.55.41:323][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2022.06.05-16.55.41:438][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2022.06.05-16.55.41:484][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2022.06.05-16.55.41:496][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2022.06.05-16.55.41:556][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2022.06.05-16.55.41:567][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2022.06.05-16.55.41:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2022.06.05-16.55.41:592][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2022.06.05-16.55.41:597][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2022.06.05-16.55.41:761][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2022.06.05-16.55.41:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2022.06.05-16.55.41:829][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2022.06.05-16.55.41:941][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2022.06.05-16.55.42:110][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2022.06.05-16.55.42:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2022.06.05-16.55.42:251][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2022.06.05-16.55.42:490][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2022.06.05-16.55.42:726][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2022.06.05-16.55.42:804][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2022.06.05-16.55.42:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2022.06.05-16.55.42:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2022.06.05-16.55.42:856][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Particles/P_Explosion.uasset"
+[2022.06.05-16.55.42:885][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Particles/P_Fire.uasset"
+[2022.06.05-16.55.43:059][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Particles/P_Smoke.uasset"
+[2022.06.05-16.55.43:106][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Particles/P_Sparks.uasset"
+[2022.06.05-16.55.43:250][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2022.06.05-16.55.43:443][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2022.06.05-16.55.43:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2022.06.05-16.55.44:031][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2022.06.05-16.55.44:095][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2022.06.05-16.55.44:215][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2022.06.05-16.55.44:238][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2022.06.05-16.55.44:899][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2022.06.05-16.55.44:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2022.06.05-16.55.44:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2022.06.05-16.55.44:954][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2022.06.05-16.55.45:275][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Props/MaterialSphere.uasset"
+[2022.06.05-16.55.45:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Props/SM_Bush.uasset"
+[2022.06.05-16.55.45:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Props/SM_Chair.uasset"
+[2022.06.05-16.55.45:543][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2022.06.05-16.55.45:549][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Props/SM_Couch.uasset"
+[2022.06.05-16.55.45:778][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Props/SM_Door.uasset"
+[2022.06.05-16.55.45:938][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2022.06.05-16.55.46:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2022.06.05-16.55.46:210][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2022.06.05-16.55.46:240][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2022.06.05-16.55.46:396][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2022.06.05-16.55.46:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2022.06.05-16.55.46:908][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2022.06.05-16.55.47:104][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Props/SM_Rock.uasset"
+[2022.06.05-16.55.47:257][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Props/SM_Shelf.uasset"
+[2022.06.05-16.55.47:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Props/SM_Stairs.uasset"
+[2022.06.05-16.55.47:454][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Props/SM_Statue.uasset"
+[2022.06.05-16.55.47:522][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Props/SM_TableRound.uasset"
+[2022.06.05-16.55.47:696][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2022.06.05-16.55.47:846][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2022.06.05-16.55.48:224][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2022.06.05-16.55.48:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2022.06.05-16.55.48:278][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2022.06.05-16.55.48:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2022.06.05-16.55.48:453][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2022.06.05-16.55.48:981][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2022.06.05-16.55.49:542][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2022.06.05-16.55.49:584][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2022.06.05-16.55.49:591][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2022.06.05-16.55.49:612][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2022.06.05-16.55.49:618][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2022.06.05-16.55.49:759][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2022.06.05-16.55.50:043][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2022.06.05-16.55.50:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2022.06.05-16.55.50:168][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2022.06.05-16.55.50:174][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2022.06.05-16.55.50:316][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2022.06.05-16.55.50:347][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2022.06.05-16.55.50:361][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2022.06.05-16.55.50:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2022.06.05-16.55.50:401][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2022.06.05-16.55.50:440][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2022.06.05-16.55.50:657][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2022.06.05-16.55.50:736][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2022.06.05-16.55.50:762][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2022.06.05-16.55.50:976][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2022.06.05-16.55.51:089][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2022.06.05-16.55.51:183][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2022.06.05-16.55.51:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2022.06.05-16.55.51:428][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2022.06.05-16.55.51:553][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2022.06.05-16.55.51:740][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2022.06.05-16.55.51:927][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2022.06.05-16.55.52:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2022.06.05-16.55.52:398][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2022.06.05-16.55.52:502][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2022.06.05-16.55.53:024][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2022.06.05-16.55.53:176][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2022.06.05-16.55.53:390][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2022.06.05-16.55.53:633][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2022.06.05-16.55.54:106][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2022.06.05-16.55.54:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2022.06.05-16.55.54:357][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2022.06.05-16.55.54:450][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2022.06.05-16.55.54:468][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2022.06.05-16.55.54:561][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2022.06.05-16.55.54:647][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2022.06.05-16.55.54:899][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2022.06.05-16.55.55:091][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2022.06.05-16.55.55:197][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2022.06.05-16.55.55:242][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2022.06.05-16.55.55:427][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2022.06.05-16.55.55:789][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2022.06.05-16.55.55:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2022.06.05-16.55.56:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2022.06.05-16.55.56:664][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2022.06.05-16.55.57:408][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2022.06.05-16.55.57:989][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2022.06.05-16.55.58:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2022.06.05-16.55.58:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2022.06.05-16.55.59:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2022.06.05-16.55.59:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2022.06.05-16.55.59:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2022.06.05-16.56.00:115][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2022.06.05-16.56.00:580][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2022.06.05-16.56.00:696][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2022.06.05-16.56.01:030][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2022.06.05-16.56.01:089][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2022.06.05-16.56.01:148][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2022.06.05-16.56.01:181][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Door_M.uasset"
+[2022.06.05-16.56.01:332][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Door_N.uasset"
+[2022.06.05-16.56.01:574][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2022.06.05-16.56.01:693][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2022.06.05-16.56.01:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2022.06.05-16.56.01:749][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2022.06.05-16.56.02:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2022.06.05-16.56.02:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2022.06.05-16.56.02:244][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2022.06.05-16.56.02:356][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2022.06.05-16.56.02:590][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2022.06.05-16.56.02:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2022.06.05-16.56.03:451][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2022.06.05-16.56.04:010][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2022.06.05-16.56.04:451][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2022.06.05-16.56.04:480][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2022.06.05-16.56.04:532][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2022.06.05-16.56.05:045][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2022.06.05-16.56.06:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2022.06.05-16.56.06:640][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2022.06.05-16.56.06:763][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2022.06.05-16.56.06:846][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2022.06.05-16.56.07:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2022.06.05-16.56.07:509][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2022.06.05-16.56.07:559][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2022.06.05-16.56.07:623][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2022.06.05-16.56.07:767][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2022.06.05-16.56.07:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2022.06.05-16.56.07:879][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2022.06.05-16.56.08:009][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2022.06.05-16.56.08:132][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2022.06.05-16.56.08:224][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2022.06.05-16.56.08:826][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2022.06.05-16.56.09:056][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2022.06.05-16.56.09:215][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2022.06.05-16.56.09:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2022.06.05-16.56.09:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2022.06.05-16.56.09:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2022.06.05-16.56.09:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2022.06.05-16.56.09:667][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2022.06.05-16.56.09:730][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2022.06.05-16.56.10:130][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2022.06.05-16.56.10:148][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2022.06.05-16.56.10:167][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2022.06.05-16.56.10:183][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2022.06.05-16.56.10:219][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2022.06.05-16.56.10:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2022.06.05-16.56.10:301][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2022.06.05-16.56.10:371][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2022.06.05-16.56.10:390][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2022.06.05-16.56.10:443][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2022.06.05-16.56.10:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2022.06.05-16.56.10:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2022.06.05-16.56.10:534][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Water_M.uasset"
+[2022.06.05-16.56.10:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Water_N.uasset"
+[2022.06.05-16.56.10:725][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2022.06.05-16.56.10:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2022.06.05-16.56.10:927][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2022.06.05-16.56.11:167][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2022.06.05-16.56.11:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2022.06.05-16.56.11:753][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2022.06.05-16.56.11:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2022.06.05-16.56.11:929][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2022.06.05-16.56.11:990][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2022.06.05-16.56.12:119][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2022.06.05-16.56.12:149][  0]LogStaticMesh: Built static mesh [0.03s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2022.06.05-16.56.13:950][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2022.06.05-16.56.15:225][  0]LogSavePackage: Moving '../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Saved/Floor_400x4007A3AE65C4BED7C0D3A56728DE4073A09.tmp' to '../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2022.06.05-16.56.15:356][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2022.06.05-16.56.15:357][  0]Cmd: MAP LOAD FILE="../../../../../1.2 STUDIA cieszyn/semestr 2/programowanie/repozytorium2/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.05-16.56.15:358][  0]LightingResults: New page: Lighting Build
+[2022.06.05-16.56.15:360][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.06.05-16.56.15:360][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-16.56.15:360][  0]MapCheck: New page: Map Check
+[2022.06.05-16.56.15:360][  0]LightingResults: New page: Lighting Build
+[2022.06.05-16.56.15:367][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.05-16.56.15:370][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.06.05-16.56.16:197][  0]LogTexture: Display: Building textures: DeprecatedTextureD6C57B644F03DADF4F2699848FAEA3C3 (BGRA8, 128X128)
+[2022.06.05-16.56.16:202][  0]LogTexture: Display: Building textures: DeprecatedTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2022.06.05-16.56.16:509][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2022.06.05-16.56.16:510][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.06.05-16.56.16:586][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.05-16.56.16:593][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.06.05-16.56.16:593][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.05-16.56.16:593][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,16ms to complete.
+[2022.06.05-16.56.16:593][  0]LogFileHelpers: Loading map 'Minimal_Default' took 1.237
+[2022.06.05-16.56.16:595][  0]LogUnrealEdMisc: Total Editor Startup Time, took 69.301
+[2022.06.05-16.56.17:320][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-16.56.17:330][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-16.56.17:338][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-16.56.17:346][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-16.56.17:632][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0088 seconds. Added 3822 classes and 928 folders.
+[2022.06.05-16.56.17:890][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.06.05-16.56.17:892][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.06.05-16.56.17:892][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-16.56.17:892][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.05-16.56.17:892][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.05-16.56.17:892][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.06.05-16.56.17:892][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2022.06.05-16.56.17:893][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.06.05-16.56.17:893][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-16.56.17:893][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.06.05-16.56.17:893][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.05-16.56.17:893][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.06.05-16.56.17:893][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.06.05-16.56.17:893][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.06.05-16.56.17:893][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-16.56.17:893][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.06.05-16.56.17:893][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.05-16.56.17:893][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.06.05-16.56.17:893][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.06.05-16.56.17:894][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.05-16.56.17:894][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-16.56.17:894][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.05-16.56.17:894][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.05-16.56.17:894][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.06.05-16.56.17:894][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.06.05-16.56.17:894][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.06.05-16.56.17:894][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-16.56.17:894][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.06.05-16.56.17:894][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.05-16.56.17:894][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.06.05-16.56.17:894][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.06.05-16.56.17:895][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.06.05-16.56.17:895][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-16.56.17:895][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.06.05-16.56.17:895][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.05-16.56.17:895][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.06.05-16.56.17:895][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.06.05-16.56.17:895][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.06.05-16.56.17:895][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-16.56.17:895][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.06.05-16.56.17:895][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.05-16.56.17:895][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.06.05-16.56.17:895][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.06.05-16.56.17:896][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.06.05-16.56.17:896][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-16.56.17:896][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.06.05-16.56.17:896][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.05-16.56.17:896][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.06.05-16.56.17:896][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.06.05-16.56.17:896][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.06.05-16.56.17:896][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-16.56.17:896][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.06.05-16.56.17:896][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.05-16.56.17:896][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.06.05-16.56.17:896][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.06.05-16.56.17:897][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.06.05-16.56.17:897][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-16.56.17:897][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.06.05-16.56.17:897][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.05-16.56.17:897][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.06.05-16.56.17:897][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.06.05-16.56.17:897][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.06.05-16.56.17:897][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-16.56.17:897][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.06.05-16.56.17:897][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.05-16.56.17:897][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.06.05-16.56.17:897][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.06.05-16.56.17:898][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.06.05-16.56.17:898][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-16.56.17:898][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.06.05-16.56.17:898][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.05-16.56.17:898][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.06.05-16.56.17:898][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.06.05-16.56.17:898][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.05-16.56.17:898][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-16.56.17:898][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.05-16.56.17:898][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.05-16.56.17:898][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.06.05-16.56.17:898][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.06.05-16.56.17:899][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.06.05-16.56.17:899][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-16.56.17:899][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.06.05-16.56.17:899][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.05-16.56.17:899][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.06.05-16.56.17:899][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.06.05-16.56.17:899][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.06.05-16.56.17:899][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-16.56.17:899][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.06.05-16.56.17:899][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.05-16.56.17:899][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.06.05-16.56.17:899][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.06.05-16.56.17:900][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.06.05-16.56.17:900][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-16.56.17:900][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.05-16.56.17:900][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.05-16.56.17:900][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.06.05-16.56.17:900][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.06.05-16.56.17:900][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.06.05-16.56.17:900][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-16.56.17:900][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.06.05-16.56.17:900][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.05-16.56.17:900][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.06.05-16.56.17:900][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.06.05-16.56.17:901][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.06.05-16.56.17:901][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-16.56.17:901][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.06.05-16.56.17:901][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.05-16.56.17:901][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.06.05-16.56.17:901][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2022.06.05-16.56.17:901][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.05-16.56.17:901][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-16.56.17:901][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.05-16.56.17:901][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.05-16.56.17:901][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.06.05-16.56.17:901][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.06.05-16.56.17:902][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.05-16.56.17:902][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-16.56.17:902][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.05-16.56.17:902][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.05-16.56.17:902][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.06.05-16.56.17:902][  0]LogPakFile: OnPakFileMounted2Time == 0.000082
+[2022.06.05-16.56.17:903][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.06.05-16.56.17:903][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-16.56.17:903][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.05-16.56.17:903][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.05-16.56.17:903][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.06.05-16.56.17:903][  0]LogPakFile: OnPakFileMounted2Time == 0.000067
+[2022.06.05-16.56.17:903][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.06.05-16.56.17:903][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-16.56.17:903][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.06.05-16.56.17:903][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.05-16.56.17:903][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.06.05-16.56.17:903][  0]LogPakFile: OnPakFileMounted2Time == 0.000064
+[2022.06.05-16.56.17:904][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.06.05-16.56.17:904][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-16.56.17:904][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.06.05-16.56.17:904][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.05-16.56.17:904][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.06.05-16.56.17:904][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.06.05-16.56.17:904][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.06.05-16.56.17:904][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-16.56.17:904][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.06.05-16.56.17:904][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.05-16.56.17:904][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.06.05-16.56.17:904][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.06.05-16.56.17:905][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.05-16.56.17:905][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-16.56.17:905][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.05-16.56.17:905][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.05-16.56.17:905][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.06.05-16.56.17:905][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.06.05-16.56.17:905][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.06.05-16.56.17:905][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.05-16.56.17:905][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.06.05-16.56.17:905][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.05-16.56.17:905][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/5. PROGRAMY - instalacje/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.06.05-16.56.17:905][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.06.05-16.56.17:940][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.06.05-16.56.18:176][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2022.06.05-16.56.18:614][  0]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.06.05-16.56.18:632][  0]LogSlate: Took 0.015636 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.06.05-16.56.18:650][  0]LogSlate: Took 0.000257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.06.05-16.56.19:033][  0]LogRenderer: Reallocating scene render targets to support 1344x660 Format 10 NumSamples 1 (Frame:1).
+[2022.06.05-16.56.19:575][  0]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.05-16.56.19:737][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.06.05-16.56.19:737][  0]LogLoad: (Engine Initialization) Total time: 72.44 seconds
+[2022.06.05-16.56.19:737][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.06.05-16.56.19:755][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2022.06.05-16.56.19:755][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2022.06.05-16.56.19:788][  0]LogAssetRegistry: Asset discovery search completed in 69.2745 seconds
+[2022.06.05-16.56.19:792][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.06.05-16.56.19:793][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.06.05-16.57.17:900][678]LogSlate: Took 0.109991 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
